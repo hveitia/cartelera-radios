@@ -1,0 +1,474 @@
+{
+    "board":
+    [{
+    "day":"1",
+    "data": [
+      {
+        "name": "El Cafetazo",
+        "image": "https://yt3.ggpht.com/a/AATXAJzyBNjTpWPjq8Lznq4JiUjEbcoZqfyIubI2Og=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "8:00",
+        "finish": "10:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Karlito Madrid",
+        "image": "https://yt3.ggpht.com/a/AATXAJzBcz5TJhHVxBDjSN9ALMOT92e2CzOq7kDTeA=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "10:00",
+        "finish": "13:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Superconectados",
+        "image": "https://yt3.ggpht.com/a/AATXAJwi6GCCSZ6fTlHodRugMlaEzyJdSPDgU9JDpjUW=s176-c-k-c0x00ffffff-no-rj",
+        "start": "13:00",
+        "finish": "15:30",
+        "schedule": "Lunes, Miércoles y Viernes"
+      },
+      {
+        "name": "Roberto San Martín",
+        "image": "https://yt3.ggpht.com/a/AATXAJzsIhhBl5r7L55eCkb2M5H4gyhqZTby5IXh5g=s176-c-k-c0x00ffffff-no-rj",
+        "start": "15:30",
+        "finish": "17:30",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Hola Otaola!",
+        "image": "https://cdn.shopify.com/s/files/1/0034/7062/2809/files/LOGO_COLOR_200x.png?v=1536074791",
+        "start": "17:30",
+        "finish": "20:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "ULTRACK",
+        "image": "https://yt3.ggpht.com/a/AATXAJxcSi6JQQFmNt00MZP0U66syi3i138GiS4gYg=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "20:00",
+        "finish": "22:00",
+        "schedule": "Lunes, Miércoles y Viernes"
+      },
+      {
+        "name": "Manuel Milanés",
+        "image": "https://yt3.ggpht.com/a/AATXAJzWza-GjOQHKKmD38hgx27iApcycaidzML4sA=s176-c-k-c0x00ffffff-no-rj",
+        "start": "20:00",
+        "finish": "22:00",
+        "schedule": "Martes y Jueves"
+      },
+      {
+        "name": "En directo con Eliecer (Retransmisión)",
+        "image": "https://yt3.ggpht.com/a/AATXAJxZYXxU3H-tZFoJI50qvtxVGrLzR6epdl62pQ=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "22:00",
+        "finish": "00:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Otras directas (Retransmisión)",
+        "image": "https://firebasestorage.googleapis.com/v0/b/cuban-news.appspot.com/o/MediaLogos%2Frpcuba.png?alt=media&token=3137c051-05be-4be5-8e91-397edde3865e",
+        "start": "00:00",
+        "finish": "08:00",
+        "schedule": "Lunes a Viernes"
+      }
+    ]},
+    {
+    "day":"2",
+    "data": [
+      {
+        "name": "El Cafetazo",
+        "image": "https://yt3.ggpht.com/a/AATXAJzyBNjTpWPjq8Lznq4JiUjEbcoZqfyIubI2Og=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "8:00",
+        "finish": "10:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Karlito Madrid",
+        "image": "https://yt3.ggpht.com/a/AATXAJzBcz5TJhHVxBDjSN9ALMOT92e2CzOq7kDTeA=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "10:00",
+        "finish": "13:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Superconectados",
+        "image": "https://yt3.ggpht.com/a/AATXAJwi6GCCSZ6fTlHodRugMlaEzyJdSPDgU9JDpjUW=s176-c-k-c0x00ffffff-no-rj",
+        "start": "13:00",
+        "finish": "15:30",
+        "schedule": "Lunes, Miércoles y Viernes"
+      },
+      {
+        "name": "Roberto San Martín",
+        "image": "https://yt3.ggpht.com/a/AATXAJzsIhhBl5r7L55eCkb2M5H4gyhqZTby5IXh5g=s176-c-k-c0x00ffffff-no-rj",
+        "start": "15:30",
+        "finish": "17:30",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Hola Otaola!",
+        "image": "https://cdn.shopify.com/s/files/1/0034/7062/2809/files/LOGO_COLOR_200x.png?v=1536074791",
+        "start": "17:30",
+        "finish": "20:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "ULTRACK",
+        "image": "https://yt3.ggpht.com/a/AATXAJxcSi6JQQFmNt00MZP0U66syi3i138GiS4gYg=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "20:00",
+        "finish": "22:00",
+        "schedule": "Lunes, Miércoles y Viernes"
+      },
+      {
+        "name": "Manuel Milanés",
+        "image": "https://yt3.ggpht.com/a/AATXAJzWza-GjOQHKKmD38hgx27iApcycaidzML4sA=s176-c-k-c0x00ffffff-no-rj",
+        "start": "20:00",
+        "finish": "22:00",
+        "schedule": "Martes y Jueves"
+      },
+      {
+        "name": "En directo con Eliecer (Retransmisión)",
+        "image": "https://yt3.ggpht.com/a/AATXAJxZYXxU3H-tZFoJI50qvtxVGrLzR6epdl62pQ=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "22:00",
+        "finish": "00:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Otras directas (Retransmisión)",
+        "image": "https://firebasestorage.googleapis.com/v0/b/cuban-news.appspot.com/o/MediaLogos%2Frpcuba.png?alt=media&token=3137c051-05be-4be5-8e91-397edde3865e",
+        "start": "00:00",
+        "finish": "08:00",
+        "schedule": "Lunes a Viernes"
+      }
+    ]},
+    {
+    "day":"3",
+    "data": [
+      {
+        "name": "El Cafetazo",
+        "image": "https://yt3.ggpht.com/a/AATXAJzyBNjTpWPjq8Lznq4JiUjEbcoZqfyIubI2Og=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "8:00",
+        "finish": "10:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Karlito Madrid",
+        "image": "https://yt3.ggpht.com/a/AATXAJzBcz5TJhHVxBDjSN9ALMOT92e2CzOq7kDTeA=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "10:00",
+        "finish": "13:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Superconectados",
+        "image": "https://yt3.ggpht.com/a/AATXAJwi6GCCSZ6fTlHodRugMlaEzyJdSPDgU9JDpjUW=s176-c-k-c0x00ffffff-no-rj",
+        "start": "13:00",
+        "finish": "15:30",
+        "schedule": "Lunes, Miércoles y Viernes"
+      },
+      {
+        "name": "Roberto San Martín",
+        "image": "https://yt3.ggpht.com/a/AATXAJzsIhhBl5r7L55eCkb2M5H4gyhqZTby5IXh5g=s176-c-k-c0x00ffffff-no-rj",
+        "start": "15:30",
+        "finish": "17:30",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Hola Otaola!",
+        "image": "https://cdn.shopify.com/s/files/1/0034/7062/2809/files/LOGO_COLOR_200x.png?v=1536074791",
+        "start": "17:30",
+        "finish": "20:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "ULTRACK",
+        "image": "https://yt3.ggpht.com/a/AATXAJxcSi6JQQFmNt00MZP0U66syi3i138GiS4gYg=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "20:00",
+        "finish": "22:00",
+        "schedule": "Lunes, Miércoles y Viernes"
+      },
+      {
+        "name": "Manuel Milanés",
+        "image": "https://yt3.ggpht.com/a/AATXAJzWza-GjOQHKKmD38hgx27iApcycaidzML4sA=s176-c-k-c0x00ffffff-no-rj",
+        "start": "20:00",
+        "finish": "22:00",
+        "schedule": "Martes y Jueves"
+      },
+      {
+        "name": "En directo con Eliecer (Retransmisión)",
+        "image": "https://yt3.ggpht.com/a/AATXAJxZYXxU3H-tZFoJI50qvtxVGrLzR6epdl62pQ=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "22:00",
+        "finish": "00:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Otras directas (Retransmisión)",
+        "image": "https://firebasestorage.googleapis.com/v0/b/cuban-news.appspot.com/o/MediaLogos%2Frpcuba.png?alt=media&token=3137c051-05be-4be5-8e91-397edde3865e",
+        "start": "00:00",
+        "finish": "08:00",
+        "schedule": "Lunes a Viernes"
+      }
+    ]},
+    {
+    "day":"4",
+    "data": [
+      {
+        "name": "El Cafetazo",
+        "image": "https://yt3.ggpht.com/a/AATXAJzyBNjTpWPjq8Lznq4JiUjEbcoZqfyIubI2Og=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "8:00",
+        "finish": "10:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Karlito Madrid",
+        "image": "https://yt3.ggpht.com/a/AATXAJzBcz5TJhHVxBDjSN9ALMOT92e2CzOq7kDTeA=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "10:00",
+        "finish": "13:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Superconectados",
+        "image": "https://yt3.ggpht.com/a/AATXAJwi6GCCSZ6fTlHodRugMlaEzyJdSPDgU9JDpjUW=s176-c-k-c0x00ffffff-no-rj",
+        "start": "13:00",
+        "finish": "15:30",
+        "schedule": "Lunes, Miércoles y Viernes"
+      },
+      {
+        "name": "Roberto San Martín",
+        "image": "https://yt3.ggpht.com/a/AATXAJzsIhhBl5r7L55eCkb2M5H4gyhqZTby5IXh5g=s176-c-k-c0x00ffffff-no-rj",
+        "start": "15:30",
+        "finish": "17:30",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Hola Otaola!",
+        "image": "https://cdn.shopify.com/s/files/1/0034/7062/2809/files/LOGO_COLOR_200x.png?v=1536074791",
+        "start": "17:30",
+        "finish": "20:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "ULTRACK",
+        "image": "https://yt3.ggpht.com/a/AATXAJxcSi6JQQFmNt00MZP0U66syi3i138GiS4gYg=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "20:00",
+        "finish": "22:00",
+        "schedule": "Lunes, Miércoles y Viernes"
+      },
+      {
+        "name": "Manuel Milanés",
+        "image": "https://yt3.ggpht.com/a/AATXAJzWza-GjOQHKKmD38hgx27iApcycaidzML4sA=s176-c-k-c0x00ffffff-no-rj",
+        "start": "20:00",
+        "finish": "22:00",
+        "schedule": "Martes y Jueves"
+      },
+      {
+        "name": "En directo con Eliecer (Retransmisión)",
+        "image": "https://yt3.ggpht.com/a/AATXAJxZYXxU3H-tZFoJI50qvtxVGrLzR6epdl62pQ=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "22:00",
+        "finish": "00:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Otras directas (Retransmisión)",
+        "image": "https://firebasestorage.googleapis.com/v0/b/cuban-news.appspot.com/o/MediaLogos%2Frpcuba.png?alt=media&token=3137c051-05be-4be5-8e91-397edde3865e",
+        "start": "00:00",
+        "finish": "08:00",
+        "schedule": "Lunes a Viernes"
+      }
+    ]},
+    {
+    "day":"5",
+    "data": [
+      {
+        "name": "El Cafetazo",
+        "image": "https://yt3.ggpht.com/a/AATXAJzyBNjTpWPjq8Lznq4JiUjEbcoZqfyIubI2Og=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "8:00",
+        "finish": "10:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Karlito Madrid",
+        "image": "https://yt3.ggpht.com/a/AATXAJzBcz5TJhHVxBDjSN9ALMOT92e2CzOq7kDTeA=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "10:00",
+        "finish": "13:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Superconectados",
+        "image": "https://yt3.ggpht.com/a/AATXAJwi6GCCSZ6fTlHodRugMlaEzyJdSPDgU9JDpjUW=s176-c-k-c0x00ffffff-no-rj",
+        "start": "13:00",
+        "finish": "15:30",
+        "schedule": "Lunes, Miércoles y Viernes"
+      },
+      {
+        "name": "Roberto San Martín",
+        "image": "https://yt3.ggpht.com/a/AATXAJzsIhhBl5r7L55eCkb2M5H4gyhqZTby5IXh5g=s176-c-k-c0x00ffffff-no-rj",
+        "start": "15:30",
+        "finish": "17:30",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Hola Otaola!",
+        "image": "https://cdn.shopify.com/s/files/1/0034/7062/2809/files/LOGO_COLOR_200x.png?v=1536074791",
+        "start": "17:30",
+        "finish": "20:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "ULTRACK",
+        "image": "https://yt3.ggpht.com/a/AATXAJxcSi6JQQFmNt00MZP0U66syi3i138GiS4gYg=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "20:00",
+        "finish": "22:00",
+        "schedule": "Lunes, Miércoles y Viernes"
+      },
+      {
+        "name": "Manuel Milanés",
+        "image": "https://yt3.ggpht.com/a/AATXAJzWza-GjOQHKKmD38hgx27iApcycaidzML4sA=s176-c-k-c0x00ffffff-no-rj",
+        "start": "20:00",
+        "finish": "22:00",
+        "schedule": "Martes y Jueves"
+      },
+      {
+        "name": "En directo con Eliecer (Retransmisión)",
+        "image": "https://yt3.ggpht.com/a/AATXAJxZYXxU3H-tZFoJI50qvtxVGrLzR6epdl62pQ=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "22:00",
+        "finish": "00:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Otras directas (Retransmisión)",
+        "image": "https://firebasestorage.googleapis.com/v0/b/cuban-news.appspot.com/o/MediaLogos%2Frpcuba.png?alt=media&token=3137c051-05be-4be5-8e91-397edde3865e",
+        "start": "00:00",
+        "finish": "08:00",
+        "schedule": "Lunes a Viernes"
+      }
+    ]},
+    {
+    "day":"6",
+    "data": [
+      {
+        "name": "El Cafetazo",
+        "image": "https://yt3.ggpht.com/a/AATXAJzyBNjTpWPjq8Lznq4JiUjEbcoZqfyIubI2Og=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "8:00",
+        "finish": "10:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Karlito Madrid",
+        "image": "https://yt3.ggpht.com/a/AATXAJzBcz5TJhHVxBDjSN9ALMOT92e2CzOq7kDTeA=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "10:00",
+        "finish": "13:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Superconectados",
+        "image": "https://yt3.ggpht.com/a/AATXAJwi6GCCSZ6fTlHodRugMlaEzyJdSPDgU9JDpjUW=s176-c-k-c0x00ffffff-no-rj",
+        "start": "13:00",
+        "finish": "15:30",
+        "schedule": "Lunes, Miércoles y Viernes"
+      },
+      {
+        "name": "Roberto San Martín",
+        "image": "https://yt3.ggpht.com/a/AATXAJzsIhhBl5r7L55eCkb2M5H4gyhqZTby5IXh5g=s176-c-k-c0x00ffffff-no-rj",
+        "start": "15:30",
+        "finish": "17:30",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Hola Otaola!",
+        "image": "https://cdn.shopify.com/s/files/1/0034/7062/2809/files/LOGO_COLOR_200x.png?v=1536074791",
+        "start": "17:30",
+        "finish": "20:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "ULTRACK",
+        "image": "https://yt3.ggpht.com/a/AATXAJxcSi6JQQFmNt00MZP0U66syi3i138GiS4gYg=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "20:00",
+        "finish": "22:00",
+        "schedule": "Lunes, Miércoles y Viernes"
+      },
+      {
+        "name": "Manuel Milanés",
+        "image": "https://yt3.ggpht.com/a/AATXAJzWza-GjOQHKKmD38hgx27iApcycaidzML4sA=s176-c-k-c0x00ffffff-no-rj",
+        "start": "20:00",
+        "finish": "22:00",
+        "schedule": "Martes y Jueves"
+      },
+      {
+        "name": "En directo con Eliecer (Retransmisión)",
+        "image": "https://yt3.ggpht.com/a/AATXAJxZYXxU3H-tZFoJI50qvtxVGrLzR6epdl62pQ=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "22:00",
+        "finish": "00:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Otras directas (Retransmisión)",
+        "image": "https://firebasestorage.googleapis.com/v0/b/cuban-news.appspot.com/o/MediaLogos%2Frpcuba.png?alt=media&token=3137c051-05be-4be5-8e91-397edde3865e",
+        "start": "00:00",
+        "finish": "08:00",
+        "schedule": "Lunes a Viernes"
+      }
+    ]},
+    {
+    "day":"7",
+    "data": [
+      {
+        "name": "El Cafetazo",
+        "image": "https://yt3.ggpht.com/a/AATXAJzyBNjTpWPjq8Lznq4JiUjEbcoZqfyIubI2Og=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "8:00",
+        "finish": "10:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Karlito Madrid",
+        "image": "https://yt3.ggpht.com/a/AATXAJzBcz5TJhHVxBDjSN9ALMOT92e2CzOq7kDTeA=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "10:00",
+        "finish": "13:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Superconectados",
+        "image": "https://yt3.ggpht.com/a/AATXAJwi6GCCSZ6fTlHodRugMlaEzyJdSPDgU9JDpjUW=s176-c-k-c0x00ffffff-no-rj",
+        "start": "13:00",
+        "finish": "15:30",
+        "schedule": "Lunes, Miércoles y Viernes"
+      },
+      {
+        "name": "Roberto San Martín",
+        "image": "https://yt3.ggpht.com/a/AATXAJzsIhhBl5r7L55eCkb2M5H4gyhqZTby5IXh5g=s176-c-k-c0x00ffffff-no-rj",
+        "start": "15:30",
+        "finish": "17:30",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Hola Otaola!",
+        "image": "https://cdn.shopify.com/s/files/1/0034/7062/2809/files/LOGO_COLOR_200x.png?v=1536074791",
+        "start": "17:30",
+        "finish": "20:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "ULTRACK",
+        "image": "https://yt3.ggpht.com/a/AATXAJxcSi6JQQFmNt00MZP0U66syi3i138GiS4gYg=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "20:00",
+        "finish": "22:00",
+        "schedule": "Lunes, Miércoles y Viernes"
+      },
+      {
+        "name": "Manuel Milanés",
+        "image": "https://yt3.ggpht.com/a/AATXAJzWza-GjOQHKKmD38hgx27iApcycaidzML4sA=s176-c-k-c0x00ffffff-no-rj",
+        "start": "20:00",
+        "finish": "22:00",
+        "schedule": "Martes y Jueves"
+      },
+      {
+        "name": "En directo con Eliecer (Retransmisión)",
+        "image": "https://yt3.ggpht.com/a/AATXAJxZYXxU3H-tZFoJI50qvtxVGrLzR6epdl62pQ=s288-c-k-c0xffffffff-no-rj-mo",
+        "start": "22:00",
+        "finish": "00:00",
+        "schedule": "Lunes a Viernes"
+      },
+      {
+        "name": "Otras directas (Retransmisión)",
+        "image": "https://firebasestorage.googleapis.com/v0/b/cuban-news.appspot.com/o/MediaLogos%2Frpcuba.png?alt=media&token=3137c051-05be-4be5-8e91-397edde3865e",
+        "start": "00:00",
+        "finish": "08:00",
+        "schedule": "Lunes a Viernes"
+      }
+    ]
+      
+    }]
+  }
